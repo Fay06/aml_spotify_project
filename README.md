@@ -1,1 +1,1 @@
-# aml_spotify_project
+# spotify_project
